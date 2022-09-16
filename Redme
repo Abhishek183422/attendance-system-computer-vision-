@@ -1,0 +1,3 @@
+The first file is where i have trained the model
+the secound was is .h5 file which contains all the weights of the model which is trained on tensorflow
+last file is where when the object is detected then the file write the name and the timing of the person
